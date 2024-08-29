@@ -1,6 +1,6 @@
 # Impostor v.2
 
-**Impostor** est un cadre complet de phishing permettant de créer des sites web dans le but de recueillir des informations d'identification. Cette version améliore les fonctionnalités de l'outil pour offrir une meilleure expérience et une plus grande efficacité.
+**Impostor** is a comprehensive phishing framework for creating websites for the purpose of collecting credentials. This version improves the functionality of the tool to provide a better experience and greater efficiency.
 
 ## Table of Contents
 - [Introduction](#introduction)
